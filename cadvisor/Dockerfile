@@ -1,2 +1,2 @@
 
-FROM google/cadvisor:latest
+FROM google/cadvisor
